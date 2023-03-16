@@ -1,3 +1,8 @@
+## Output
+In the root directory of the repository, you'll find two files – one with a .csv extension and another with a .txt extension. 
+These files contain the output from the application.
+
+
 # Hello #FutureShaper
 I am glad that you passed the first stages of the interview process. Now is the time to show us what you got!
 
